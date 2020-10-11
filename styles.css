@@ -1,0 +1,67 @@
+html{
+    margin: 0;
+}
+body {
+    font-size: 20px;
+    font-family: 'Open Sans';
+    line-height: 1.8;
+    color: #800000;
+    text-align: center;
+    margin: 0px;
+}
+p {
+    font-size: 16px;
+}
+.margin {
+    margin-bottom: 45px;
+}
+.bg-1 { 
+    background-color: #800000; 
+    color: #ffffff;
+}
+.bg-2 { 
+    background-color: #ecbcb4; 
+    color: #000000;
+}
+.bg-3 { 
+    background-color: #800000; 
+    color: #fff;
+}
+.bg-4 { 
+    background-color: #ecbcb4; 
+    color: #000000;
+}
+
+.bg-5 { 
+    background-color: #800000; 
+    color: #fff;
+}
+.container-fluid {
+    padding-top: 20px;
+    padding-bottom: 70px;
+}
+.button{
+    width:20%;
+}
+.social a{
+    font-size: 2.5em;
+    padding: 3rem;
+}
+.fa-facebook:hover,
+.fa-linkedin:hover,
+.fa-github:hover,
+.fa-envelope:hover{
+    color: #FFff00;
+}
+.copyright{
+    background-color: #ffff99;
+    height: 40px;
+    width: 100%;
+    bottom: 0;
+    font-size: 20px;
+    color: #000000;
+}
+code{
+    color: #000000;
+    background-color: #ffff99;
+}
